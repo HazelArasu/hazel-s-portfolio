@@ -1,6 +1,6 @@
 # 👋 A.K. Hazel's Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! Here you’ll find hands-on projects that demonstrate my skills in data cleaning, exploration, visualization, and predictive modeling using Python, SQL, Excel, and Power BI.
+Welcome to my data analytics portfolio! Here you’ll find hands-on projects that demonstrate my skills in data cleaning, manipulation, visualization, and predictive modeling using Python, SQL, Excel, and Power BI.
 
 ## 🔧 Skills
 - Python (Pandas, Matplotlib, Seaborn,Numpy)
@@ -10,8 +10,8 @@ Welcome to my data analytics portfolio! Here you’ll find hands-on projects tha
 - Charting
 
 ## 📁 Projects
-- 📊 [Sales Analytics Dashboard (Power BI)](/PowerBI/SalesDashboard)
-Sales insights dashboard using Power BI with KPIs, filters, and visuals.
+- 📊 [Chocolate Store's Sales Analytics Dashboard (Power BI)](/PowerBI/SalesDashboard)
+Chcolates sales analysis,shipment analysis and sales persons' performance analysis using Power BI
 
 - 📊 [Sales Analytics Dashboard (Power BI)](/PowerBI/SalesDashboard)
 Sales insights dashboard using Power BI with KPIs, filters, and visuals.
