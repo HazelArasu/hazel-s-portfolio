@@ -13,7 +13,7 @@ Welcome to my data analytics portfolio! Here you’ll find hands-on projects tha
 - 📊 [Chocolate Sales Analytics Dashboard (Power BI)](/PowerBI/SalesDashboard)
 Analysis of chcolate sales,shipment and sales persons' performance using Power BI
 
-- 📊 [Sales Analytics Dashboard (Power BI)](/PowerBI/SalesDashboard)
+- 📊 [Monthly Sales Analytics Dashboard (Power BI)](/PowerBI/SalesDashboard)
 Sales insights dashboard using Power BI with KPIs, filters, and visuals.
 
 ## 📫 Contact
