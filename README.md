@@ -6,7 +6,7 @@ Welcome to my data analytics portfolio! Here you’ll find hands-on projects tha
 - Python (Pandas, Matplotlib, Seaborn,Numpy)
 - SQL (SQLite, MySQL)
 - Excel & Power BI Dashboards
-- Data Visualization,Data Manipulation, Data Cleaning
+- Data Visualization,Data Manipulation, Data Cleaning 
 - Charting
 
 ## 📁 Projects
