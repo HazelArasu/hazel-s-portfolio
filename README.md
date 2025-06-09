@@ -1,13 +1,21 @@
-# Data Analyst
+# 👋 A.K. Hazel's Data Analytics Portfolio
 
-### Education
-B.Tech.
+Welcome to my data analytics portfolio! Here you’ll find hands-on projects that demonstrate my skills in data cleaning, exploration, visualization, and predictive modeling using Python, SQL, Excel, and Power BI.
 
-### Work Experience
-Technical Support Engineer @ Talview
+## 🔧 Skills
+- Python (Pandas, Matplotlib, Seaborn,Numpy)
+- SQL (SQLite, MySQL)
+- Excel & Power BI Dashboards
+- Data Visualization,Data Manipulation, Data Cleaning
+- Charting
 
-Technical Support Engineer @ Mphasis
-- Worked for the client HP- Poly
+## 📁 Projects
+- 📊 [Sales Analytics Dashboard (Power BI)](/PowerBI/SalesDashboard)
+Sales insights dashboard using Power BI with KPIs, filters, and visuals.
 
-### Projects
+- 📊 [Sales Analytics Dashboard (Power BI)](/PowerBI/SalesDashboard)
+Sales insights dashboard using Power BI with KPIs, filters, and visuals.
 
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/hazelarasu/)
+- Email: akhazel1995@gmail.com
