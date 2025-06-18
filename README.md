@@ -10,7 +10,7 @@ Welcome to my data analytics portfolio! Here you’ll find hands-on projects tha
 - Charting
 
 ## Projects
-- [Chocolate Sales Analytics Dashboard (Power BI)]([/PowerBI/SalesDashboard](https://hazelarasu.github.io/Awesome-Chocolates-Sales-Analysis/))
+- [Chocolate Sales Analytics Dashboard (Power BI)]((https://hazelarasu.github.io/Awesome-Chocolates-Sales-Analysis/))
 Analysis of chcolate sales,shipment and sales persons' performance using Power BI
 
 - [Monthly Sales Analytics Dashboard (Power BI)](/PowerBI/SalesDashboard)
