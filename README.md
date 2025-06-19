@@ -16,7 +16,7 @@ Analysis of chcolate sales,shipment and sales persons' performance using Power B
 - [Monthly Sales Analytics Dashboard (Power BI)](https://hazelarasu.github.io/Monthly-Sales-Analytics-Dashboard/)
 Sales insights dashboard using Power BI with KPIs, filters, and visuals.
 
-- [Monthly Technical Support Case Analysis Dashboard (Power BI)](/PowerBI/SalesDashboard)
+- [Monthly Technical Support Case Analysis Dashboard (Power BI)](https://github.com/HazelArasu/Monthly-Technical-Support-Case-Analysis)
 Analysis of cases handled by a technical support engineer using Power BI
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/hazelarasu/)
