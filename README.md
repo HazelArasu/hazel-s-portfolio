@@ -20,7 +20,7 @@ Sales insights dashboard using Power BI with KPIs, filters, and visuals.
 Analysis of cases handled by a technical support engineer using Power BI
 
 - [My Spotify Wrapped Clone)](https://hazelarasu.github.io/Monthly-Technical-Support-Case-Analysis/)
-A Streamlit web page that works like Spotify Wrapped, showing my top tracks, artists and lyric sentiment analysis.
+A Streamlit web page that works like Spotify Wrapped, showing my top tracks, artists and lyrics sentiment analysis.
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/hazelarasu/)
 - Email: akhazel1995@gmail.com
